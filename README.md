@@ -9,3 +9,11 @@ Bu yerda men GitHub bilan mashq qilib, loyihalarimni saqlayman.
 - 👩 Muallif: Zahroopa
 - 🎯 Maqsad: Git va GitHub o‘rganish, kodlarni saqlash va bo‘lishish
 - 📅 Boshlanish: 2025-yil
+# Hello World Python 👋
+
+Bu mening birinchi Python loyiham.  
+Foydalanuvchini tabriklab, salom beradi. 😎
+
+## Ishga tushirish
+```bash
+python main.py
